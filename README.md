@@ -1,0 +1,1 @@
+Digit recognition with the help of CNN. This code is a solution to a kaggle competition, where out goal is to correctly identify digits from a dataset of tens of thousands of handwritten images. https://www.kaggle.com/c/digit-recognizer/overview/description
